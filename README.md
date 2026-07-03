@@ -7,7 +7,7 @@
 > 🔥 **Official PW Coupon Code 2026 Repository** – Get **Flat ₹500 or ₹1000 OFF** on all Physics Wallah Batches using exclusive code **9711NDME**
 
 ## 🎯 Quick Links
-- **Live Demo:** [https://yourusername.github.io/pw-coupon-codes-2026/](https://yourusername.github.io/pw-coupon-codes-2026/)
+- **Live Demo:** [https://pwcouponwallah.github.io/pw-coupon-code-2026/](https://pwcouponwallah.github.io/pw-coupon-code-2026/)
 - **Active Code:** `9711NDME`
 - **Discount:** Flat ₹500 or ₹1000 OFF
 - **Eligibility:** New Users Only (Unregistered Mobile Number)
